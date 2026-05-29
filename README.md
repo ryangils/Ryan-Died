@@ -1,2 +1,7 @@
 # Ryan-Died
-ryan did really die
+
+A simple memorial website for Ryan.
+
+## Run locally
+
+Open `index.html` in a browser.
